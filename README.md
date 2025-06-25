@@ -4,4 +4,4 @@
 - [Adrian Ruiz](https://github.com/Addsdev-campuslands)
 
 ## Autores de paz
--[Pablo Orduz](https://github.com/Pablo-cyber123)
+-[Adrian Bayona](https://github.com/Bayona325)

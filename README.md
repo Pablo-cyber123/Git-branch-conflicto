@@ -4,4 +4,5 @@
 - [Adrian Ruiz](https://github.com/Addsdev-campuslands)
 
 ## Autores de paz
--[Pablo Orduz](https://github.com/Pablo-cyber123)
+-[Juan José Rivero](https://github.com/JuanJo-R-1)
+
